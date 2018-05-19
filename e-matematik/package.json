@@ -1,0 +1,16 @@
+{
+  "name": "e-matematik",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^26.0.0",
+    "react": "16.3.0-alpha.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
+    "moment": "2.22.1",
+    "react-native-calendar-picker": "5.18.0",
+    "react-navigation": "2.0.1"
+  }
+}
